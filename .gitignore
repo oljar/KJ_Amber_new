@@ -1,0 +1,10 @@
+﻿.gitigore
+*.pyc
+*¬
+myvenv
+db.sqlite3
+*.pdf
+/listy_kontrolne
+/protocols
+.DS_Store
+/protocol
